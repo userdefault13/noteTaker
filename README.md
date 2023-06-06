@@ -2,6 +2,8 @@
 # Note Taking App
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+https://notetaking123.herokuapp.com/
+
 ## Description
 The Note Taking App is a simple application that allows users to create, view, and manage their notes. It provides a convenient way to organize and store important information.
 
